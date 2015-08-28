@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Kelas Asas PHP Framework Laravel
+category: aktitivi
+tags: [php, laravel]
 ---
 
 Kelas ini dijalankan selama 2 hari pada minggu lepas, bertempat di Fakulti Komputeran, UTM. Kelas ini adalah salah satu daripada inisiatif Jomweb Johor untuk membantu pelajar-pelajar supaya lebih bersedia untuk persekitaran software development sebenar. Kelas dikendalikan oleh #fellow Salahuddin Hairai.
