@@ -1,0 +1,25 @@
+---
+layout: page
+title: Ahli
+permalink: /ahli/
+---
+
+<style>
+.clear {
+	clear: both;
+	margin-bottom: 30px;
+}
+</style>
+
+
+
+{% for author_item in site.authors %}
+	{% assign key = author_item[0] %}
+	{% assign author = author_item[1] %}
+
+	<div class="clear"></div>
+	<hr />
+
+    {% include author.html %}
+
+{% endfor %}
