@@ -20,6 +20,6 @@ permalink: /ahli/
 	<div class="clear"></div>
 	<hr />
 
-    {% include author.html %}
+    {% include ahli.html %}
 
 {% endfor %}
