@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/jomwebjohor/jomwebjohor.github.io/mast
 footer-links:
   dribbble:
   email:
-  facebook: https://fb.me/jomwebjohor
+  facebook: groups/jomwebjohor
   flickr:
-  github: barryclark/jekyll-now
+  github: jomwebjohor
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -87,7 +87,50 @@ authors:
 
   salahuddin:
     name:           Salahuddin Hairai
-    short_bio:      Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB
-    full_bio_ms:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a> Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB'
-    full_bio_en:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a> Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB'
+    short_bio:      Software Engineer, Financio Sdn Bhd.
+    full_bio_ms:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a>, seorang Full Stack Developer, Usahawan Tekno, Trainer & Perunding IT. Berpengalaman dalam PHP (Laravel/Phalcon/Symfony/CodeIgniter/CakePHP), DevOps & SysOps. Berminat dan pernah terlibat dalam beberapa startup seperti Mobile9, Ninja Van dan yang terkini, Financio.'
+    full_bio_en:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a>, a Full Stack Developer, Technopreneur, IT Trainer & Consultant. Experienced in PHP (Laravel/Phalcon/Symfony/CodeIgniter/CakePHP), DevOps and SysOps. Interested & have been involved in several startups such as Mobile9, Ninja Van and the latest, Financio.'
     pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0e3/20c/09c7867.jpg
+    
+  irfanradzi:
+    name:           Irfan Radzi
+    short_bio:      Frontend Programmer di Persada Terbilang Sdn Bhd.
+    full_bio_ms:    '<a name="Irfan Radzi" href="http://mrjunior.my/theroller" style="font-weight:bold">Irfan Radzi</a>, seorang yang ingin berdedikasi dalam Javascript, berminat dengan AngularJS, NodeJS dan pelbagai teknologi Javascript yang lain.'
+    full_bio_en:    '<a name="Irfan Radzi" href="http://mrjunior.my/theroller" style="font-weight:bold">Irfan Radzi</a>, a dedicated Javascript developer with high interest in AngularJS, NodeJS and other emerging Javascript technologies.'
+    pic:            http://mrjunior.my/rolodex/me.jpg
+    
+  sheikhazrin:
+    name:           Sheik Hazrin
+    short_bio:      Pengurus syarikat Jezrin Technologies Sdn Bhd. Kepakaran di dalam Aplikasi Web, Pembangunan Web Joomla !, Kemaskini Web, Sistem Pengurusan Kandungan, CMS, dan sekarang tinggal di Taman Universiti, Johor Bahru.
+    full_bio_ms:    '<a name="Sheik Hazrin" href="https://www.facebook.com/sheik.hazrin/" style="font-weight:bold;">Sheik Hazrin</a> Pengurus syarikat Jezrin Technologies Sdn Bhd. Kepakaran di dalam Aplikasi Web, Pembangunan Web Joomla !, Kemaskini Web , Sistem Pengurusan Kandungan, CMS, dan sekarang tinggal di Taman Universiti, Johor Bahru.'
+    full_bio_en:    '<a name="Sheik Hazrin" href="https://www.facebook.com/sheik.hazrin/" style="font-weight:bold;">Sheik Hazrin</a> Manager of the company Jezrin Technologies Sdn Bhd. Expertise in Web Application, Joomla! Web Development, Update Web, Content Management System, CMS, and now lives in Taman Universiti in Johor Bahru.'
+    pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/155/2f9/161beab.jpg
+  
+  hanafiahyahya:
+    name:           Muhamad Hanafiah Yahya
+    short_bio:      CTO, Lead Developer and Co-Founder, Kreydle Sdn Bhd. Co-Founder, Ashadee Technologies Sdn Bhd.
+    full_bio_ms:    '<a name="Hanafiah Yahya" href="https://my.linkedin.com/in/hanafiahyahya" style="font-weight:bold;">Hanafiah Yahya</a> adalah CTO, Lead Developer dan Co-Founder <a href="http://www.kreydle.com">Kreydle Sdn Bhd</a>.Beliau membangunkan produk yang osem SAAS seperti <a href="http://linktrackr.com">LinkTrackr</a> , <a href="http://www.nichify.net">Nichify</a> dan <a href="http://www.heylo.io/">Heylo</a>. Beliau juga merupakan Co-Founder Ashadee Technologies Sdn Bhd. Selain dari Software Development, beliau juga bermain dengan Full-Stack server, optimization dan juga scaling menggunakan Amazon Web Services dan Google Cloud Platform.'
+    full_bio_en:    '<a name="Hanafiah Yahya" href="https://my.linkedin.com/in/hanafiahyahya" style="font-weight:bold;">Hanafiah Yahya</a> is the CTO, Lead Developer and Co-Founder of <a href="http://www.kreydle.com">Kreydle Sdn Bhd</a>.He developed <a href="http://linktrackr.com">LinkTrackr</a> , <a href="http://www.nichify.net">Nichify</a> and <a href="http://www.heylo.io/">Heylo</a>, an awesome Software As a Services ( SAAS ) created by Kreydle. Additionally, he also Co-Founder of Ashadee Technologies Sdn Bhd. Apart from Software Development, he also play with Full-Stack server, optimization and scaling with Amazon Web Services & Google Cloud Platform.'
+    gravatar:       70a5aff1d3661b982a2c5ca28fd0e9a3
+    pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/244/00f/2527abd.jpg
+  
+  zubairabuhasan:
+    name:           Zubair Abu Hasan
+    short_bio:      System Analyst at Gates IT Solutions.
+    full_bio_ms:    '<a name="Zubair" href="http://my.linkedin.com/in/zubairabuhasan" style="font-weight:bold;">Zubair Abu Hasan</a> adalah seorang pembangun aplikasi web yang kini bertugas di Gates IT Solutions. Berminat dengan PHP (Laravel, CodeIgniter) dan MySQL. Bekerja dengan ASP.NET, Java dan MSSQL.'
+    full_bio_en:    '<a name="Zubair" href="http://my.linkedin.com/in/zubairabuhasan" style="font-weight:bold;">Zubair Abu Hasan</a> is a web application developer at Gates IT Solutions. Plays around with PHP (Laravel, CodeIgniter) and MySQL. Works with ASP.NET, MSSQL and Java.'
+    pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJBAAAAJGI4ZDRmMDUxLWJkZmMtNDljYy1iZmFkLTA1MTE2NmIyYTA3MQ.jpg
+
+  syukrishukor:
+    name:           Syukri Shukor
+    short_bio:      RnD Engineer di V.S PLus Sdn Bhd.
+    full_bio_ms:    '<a name="Syukri Shukor" href="https://www.linkedin.com/in/syukrishukor" style="font-weight:bold">Syukri Shukor</a>, adalah dari bidang kejuruteraan dan meminati bidang pegaturcaraan. terlibat dalam pengaturcaraan C serta php dan bertugas sebagai RnD Eng.'
+    full_bio_en:    '<a name="Syukri Shukor" href="https://www.linkedin.com/in/syukrishukor" style="font-weight:bold">Syukri Shukor</a>, came from engineering background and love programming. involved mostly in C and php currently working as RnD Eng.'
+    pic:            https://media.licdn.com/media/p/7/005/03a/35b/26be153.jpg
+
+  afnizanfaizal:
+    name:           Afnizanfaizal Abdullah
+    short_bio:      Senior Lecturer at Universiti Teknologi Malaysia
+    full_bio_ms:    '<a name="Afnizanfaizal Abdullah" href="http://comp.utm.my/afnizanfaizal/" style="font-weight:bold">Afnizanfaizal Abdullah</a>, seorang pensyarah kanan yang aktif di dalam penyelidikan Kepintaran Buatan dan Bioinformatik.'
+    full_bio_en:    '<a name="Afnizanfaizal Abdullah" href="http://comp.utm.my/afnizanfaizal/" style="font-weight:bold">Afnizanfaizal Abdullah</a>, is a senior lecturer who active in research of Artificial Intelligence and Bioinformatics'
+    pic:            http://comp.utm.my/afnizanfaizal/files/2013/01/greyscale-brand.jpg
