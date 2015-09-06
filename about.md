@@ -8,6 +8,8 @@ JOMWEB merupakan satu inisiatif yang digerakkan oleh komuniti pembangun tempatan
 
 Sertai Kami:-
 
-* Laman Utama: www.JOMWEB.my
-* Grup FB: www.fb.com/groups/JOMWEB
-* Chapter Johor: jomwebjohor.github.io / www.fb.com/groups/jomwebjohor
+* Laman Utama: [JOMWEB.my](http://www.JOMWEB.my)
+* Grup FB Utama: [fb.com/groups/JOMWEB](http://fb.com/groups/JOMWEB)
+* Chapter Johor:
+	* [jomwebjohor.github.io](http://jomwebjohor.github.io)
+	* [fb.com/groups/jomwebjohor](http://.fb.com/groups/jomwebjohor)
