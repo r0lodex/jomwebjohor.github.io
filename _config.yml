@@ -87,9 +87,9 @@ authors:
 
   salahuddin:
     name:           Salahuddin Hairai
-    short_bio:      Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB
-    full_bio_ms:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a> Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB'
-    full_bio_en:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a> Seorang Software Engineer di Financio Sdn Bhd, pandai PHP, Laravel, Phalcon, Symfony, CodeIgniter dan sekarang tinggal di Kg Melayu Majidee, JB'
+    short_bio:      Software Engineer, Financio Sdn Bhd.
+    full_bio_ms:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a>, seorang Full Stack Developer, Usahawan Tekno, Trainer & Perunding IT. Berpengalaman dalam PHP (Laravel/Phalcon/Symfony/CodeIgniter/CakePHP), DevOps & SysOps. Berminat dan pernah terlibat dalam beberapa startup seperti Mobile9, Ninja Van dan yang terkini, Financio.'
+    full_bio_en:    '<a name="Salahuddin Hairai" href="https://sg.linkedin.com/in/salahuddinhairai" style="font-weight:bold;">Salahuddin Hairai</a>, a Full Stack Developer, Technopreneur, IT Trainer & Consultant. Experienced in PHP (Laravel/Phalcon/Symfony/CodeIgniter/CakePHP), DevOps and SysOps. Interested & have been involved in several startups such as Mobile9, Ninja Van and the latest, Financio.'
     pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0e3/20c/09c7867.jpg
     
   irfanradzi:
@@ -116,7 +116,7 @@ authors:
   
   zubairabuhasan:
     name:           Zubair Abu Hasan
-    short_bio:      System Analyst at Gates IT Solutions. 
+    short_bio:      System Analyst at Gates IT Solutions.
     full_bio_ms:    '<a name="Zubair" href="http://my.linkedin.com/in/zubairabuhasan" style="font-weight:bold;">Zubair Abu Hasan</a> adalah seorang pembangun aplikasi web yang kini bertugas di Gates IT Solutions. Berminat dengan PHP (Laravel, CodeIgniter) dan MySQL. Bekerja dengan ASP.NET, Java dan MSSQL.'
     full_bio_en:    '<a name="Zubair" href="http://my.linkedin.com/in/zubairabuhasan" style="font-weight:bold;">Zubair Abu Hasan</a> is a web application developer at Gates IT Solutions. Plays around with PHP (Laravel, CodeIgniter) and MySQL. Works with ASP.NET, MSSQL and Java.'
     pic:            https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJBAAAAJGI4ZDRmMDUxLWJkZmMtNDljYy1iZmFkLTA1MTE2NmIyYTA3MQ.jpg
