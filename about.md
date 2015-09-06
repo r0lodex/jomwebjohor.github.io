@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+JOMWEB merupakan satu inisiatif yang digerakkan oleh komuniti pembangun tempatan dalam mengangkat darjat dan menceriakan lagi industri IT di Malaysia. Kami percaya dengan konsep perkongsian ilmu dalam mengukuhkan lagi industri ini ke tahap yang seterusnya.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Laman Utama: www.JOMWEB.my
+Grup FB: www.fb.com/groups/JOMWEB
+Chapter Johor: jomwebjohor.github.io
